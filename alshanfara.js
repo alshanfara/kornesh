@@ -1,8 +1,4 @@
-    $(`<marquee style="margin-top: 3px;margin-bottom: -3px;" direction="right" width="100%" id="des1" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">
-أرحبو في شات
-<font color="#357524" class="des2"> كورنيش مصر </font>
-منورين شات  كورنيش مصر..
-</marquee>`).insertAfter('label.label.label-primary.mini.fl span.s1.fa.fa-user.label.badgex.label-as-badge.label-success'); 
+
 $(`
 
         <img alt="" src="alwrwd.gif" class="fl" style="background-image: url('styleone/1.gif?123');background-size: contain;width:100%;margin-top: 1px;background-color: white;border-radius: 0px;">
